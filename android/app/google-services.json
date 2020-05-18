@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "33180864514",
+    "firebase_url": "https://ikaze-mobile.firebaseio.com",
+    "project_id": "ikaze-mobile",
+    "storage_bucket": "ikaze-mobile.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:33180864514:android:e8f50403c17f8a855b971b",
+        "android_client_info": {
+          "package_name": "com.example.ikaze_mobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "33180864514-0g7ma23f8arscqkntngnvl4o9v5e7b9p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ikaze_mobile",
+            "certificate_hash": "103f7a36a203d39edd630a0c2a47d55e5838ecd8"
+          }
+        },
+        {
+          "client_id": "33180864514-emhnv2fcnebupf1na6s8of6k4cg20aed.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCy-Mp_48rKxdbpMwV3zci3PJWFhQYYvsc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "33180864514-emhnv2fcnebupf1na6s8of6k4cg20aed.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
