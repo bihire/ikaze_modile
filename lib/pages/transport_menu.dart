@@ -17,7 +17,9 @@ class TransportMenuState extends State<TransportMenu> {
     return Scaffold(
       body: StreamProvider<UserLocation>(
       create: (context) => LocationService().locationStream,
-      child: MaterialApp(title: 'My location B', home: HomeView()),
+      child: MaterialApp(
+        title: 'My location B',
+        home: HomeView()),
     ));
   }
 }
